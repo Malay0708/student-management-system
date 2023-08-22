@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.7.1
+Created-By: 22.0-b10 (Oracle Corporation)
+Main-Class: Login
+Class-Path: 
+X-COMMENT: Main-Class will be added automatically by build
+
